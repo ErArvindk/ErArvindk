@@ -11,7 +11,7 @@
 <br>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.arstechnica.net/wp-content/uploads/2022/09/getty-hacker-800x526.jpg">
-<p align="center" width="150px">I am currently a 1st Year student at MMDU Ambala pursuing my B Tech degree in computer science and Engineering.Here to contribute in Open Source projects and learn new things on the go.</p>
+<p align="center" width="150px">I am currently a 1st Year student at MMDU Ambala pursuing my  B.Tech degree in computer science and Engineering.Here to contribute in Open Source projects and learn new things on the go.</p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erarvindk&label=Profile%20views&color=0e75b6&style=flat" alt="erarvindk" /> </p>
