@@ -13,11 +13,12 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 <p align="center" width="150px">I am currently a 1st Year student at MMDU Ambala pursuing my B Tech degree in computer science and Engineering.Here to contribute in Open Source projects and learn new things on the go.</p>
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erarvindk&label=Profile%20views&color=0e75b6&style=flat" alt="erarvindk" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erarvindk" alt="erarvindk" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/erarvindk" target="blank"><img src="https://img.shields.io/twitter/follow/erarvindk?logo=twitter&style=for-the-badge" alt="erarvindk" /></a> </p>
+<p align="left"> <a href="https://twitter.com/erarvind_k" target="blank"><img src="https://img.shields.io/twitter/follow/erarvind_k?logo=twitter&style=for-the-badge" alt="erarvind_k" /></a> </p>
 
 - 🔭 I’m currently working on **Web development**
 
@@ -39,12 +40,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/erarvindk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="erarvindk" height="30" width="40" /></a>
+<a href="https://twitter.com/erarvind_k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="erarvind_k" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/arvind-kumar-1189bb263" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arvind-kumar-1189bb263" height="30" width="40" /></a>
 <a href="https://instagram.com/er_arvind.k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="er_arvind.k" height="30" width="40" /></a>
-<a href="https://hashnode.com/@mustafaansari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@mustafaansari" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@freetime_official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@freetime_official" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mustafaansarii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mustafaansarii" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/freetime_official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="freetime_official" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
