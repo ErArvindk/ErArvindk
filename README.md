@@ -1,11 +1,15 @@
 <p align="right">
-    <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Front+End+Developer;Open+Source+Contributor;Tech+Enthusiast;CSE+Undergradute" />
+    <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Front+End+Developer;Open+Source+Contributor;Tech+Enthusiast;ECE+Undergrad" />
     <h1 align="center"><img src="https://raw.githubusercontent.com/SurajPratap10/SurajPratap10/master/Hi.gif" width="20px"> </h1>
     <br>
 <p align="center" width="150px">I am currently a 1st Year student at MMDU Ambala pursuing my B Tech degree in computer science and Engineering.Here to contribute in Open Source projects and learn new things on the go.</p>
 </p>
 <br>
+<p align="center"><img src="https://profile-counter.glitch.me/%7BSurajPratap10%7D/count.svg" alt="visitor badge"/></p>
+<br>
 
+<p align = "left">
+<img src = "gitartwork.svg" alt = "Gitartwork"></p><br>
 
 <h1 align="center">Hi 👋, I'm Arvind kumar</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
