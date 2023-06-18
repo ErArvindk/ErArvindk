@@ -42,7 +42,7 @@
 <p align="left">
 <a href="https://twitter.com/erarvind_k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="erarvind_k" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/arvind-kumar-1189bb263" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arvind-kumar-1189bb263" height="30" width="40" /></a>
-<a href="https://instagram.com/er_arvind.k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="er_arvind.k" height="30" width="40" /></a>
+<a href="https://instagram.com/yadav_arvind.k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yadav_arvind.k" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/freetime_official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="freetime_official" height="30" width="40" /></a>
 </p>
 
